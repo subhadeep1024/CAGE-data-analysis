@@ -10,3 +10,6 @@ All the input files and directories should be proper,y named and placed in order
 
 
 e.g. the directory containing the scripts should contain subdirectories named after the cell lines. Each of the sub directories should contain files prefixed as "TC_Cell" followed by the cell line name (same as directory name), separated by a "_"
+
+
+prerequisites: BEDTools
