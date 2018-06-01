@@ -7,11 +7,6 @@
 # All input folders should contain files with the prefix "TC_Cell" followed by the name of the cell lines, separated by "_"
 # e.g. TC_Cell_Gm12878, These files will be the input files.
 
-
-
-
-
-
 for Cell in "$@"
 
 do
